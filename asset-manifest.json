@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https,://coolcrazyfox.github.io/chess-game/static/css/main.ac1f69f4.chunk.css",
+    "main.js": "/https,://coolcrazyfox.github.io/chess-game/static/js/main.d172ef39.chunk.js",
+    "main.js.map": "/https,://coolcrazyfox.github.io/chess-game/static/js/main.d172ef39.chunk.js.map",
+    "runtime-main.js": "/https,://coolcrazyfox.github.io/chess-game/static/js/runtime-main.6a142f56.js",
+    "runtime-main.js.map": "/https,://coolcrazyfox.github.io/chess-game/static/js/runtime-main.6a142f56.js.map",
+    "static/js/2.bae2bec1.chunk.js": "/https,://coolcrazyfox.github.io/chess-game/static/js/2.bae2bec1.chunk.js",
+    "static/js/2.bae2bec1.chunk.js.map": "/https,://coolcrazyfox.github.io/chess-game/static/js/2.bae2bec1.chunk.js.map",
+    "index.html": "/https,://coolcrazyfox.github.io/chess-game/index.html",
+    "static/css/main.ac1f69f4.chunk.css.map": "/https,://coolcrazyfox.github.io/chess-game/static/css/main.ac1f69f4.chunk.css.map",
+    "static/js/2.bae2bec1.chunk.js.LICENSE.txt": "/https,://coolcrazyfox.github.io/chess-game/static/js/2.bae2bec1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a142f56.js",
+    "static/js/2.bae2bec1.chunk.js",
+    "static/css/main.ac1f69f4.chunk.css",
+    "static/js/main.d172ef39.chunk.js"
+  ]
+}
