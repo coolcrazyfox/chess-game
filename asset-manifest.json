@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https,://coolcrazyfox.github.io/chess-game/static/css/main.ac1f69f4.chunk.css",
-    "main.js": "/https,://coolcrazyfox.github.io/chess-game/static/js/main.13c6b124.chunk.js",
-    "main.js.map": "/https,://coolcrazyfox.github.io/chess-game/static/js/main.13c6b124.chunk.js.map",
-    "runtime-main.js": "/https,://coolcrazyfox.github.io/chess-game/static/js/runtime-main.52641470.js",
-    "runtime-main.js.map": "/https,://coolcrazyfox.github.io/chess-game/static/js/runtime-main.52641470.js.map",
-    "static/js/2.d66f2680.chunk.js": "/https,://coolcrazyfox.github.io/chess-game/static/js/2.d66f2680.chunk.js",
-    "static/js/2.d66f2680.chunk.js.map": "/https,://coolcrazyfox.github.io/chess-game/static/js/2.d66f2680.chunk.js.map",
-    "index.html": "/https,://coolcrazyfox.github.io/chess-game/index.html",
-    "static/css/main.ac1f69f4.chunk.css.map": "/https,://coolcrazyfox.github.io/chess-game/static/css/main.ac1f69f4.chunk.css.map",
-    "static/js/2.d66f2680.chunk.js.LICENSE.txt": "/https,://coolcrazyfox.github.io/chess-game/static/js/2.d66f2680.chunk.js.LICENSE.txt"
+    "main.css": "/chess-game/static/css/main.0b553ed3.chunk.css",
+    "main.js": "/chess-game/static/js/main.b3d4fd95.chunk.js",
+    "main.js.map": "/chess-game/static/js/main.b3d4fd95.chunk.js.map",
+    "runtime-main.js": "/chess-game/static/js/runtime-main.37b133a2.js",
+    "runtime-main.js.map": "/chess-game/static/js/runtime-main.37b133a2.js.map",
+    "static/js/2.3ebd2207.chunk.js": "/chess-game/static/js/2.3ebd2207.chunk.js",
+    "static/js/2.3ebd2207.chunk.js.map": "/chess-game/static/js/2.3ebd2207.chunk.js.map",
+    "index.html": "/chess-game/index.html",
+    "static/css/main.0b553ed3.chunk.css.map": "/chess-game/static/css/main.0b553ed3.chunk.css.map",
+    "static/js/2.3ebd2207.chunk.js.LICENSE.txt": "/chess-game/static/js/2.3ebd2207.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.52641470.js",
-    "static/js/2.d66f2680.chunk.js",
-    "static/css/main.ac1f69f4.chunk.css",
-    "static/js/main.13c6b124.chunk.js"
+    "static/js/runtime-main.37b133a2.js",
+    "static/js/2.3ebd2207.chunk.js",
+    "static/css/main.0b553ed3.chunk.css",
+    "static/js/main.b3d4fd95.chunk.js"
   ]
 }
